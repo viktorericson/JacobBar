@@ -1,0 +1,39 @@
+{
+	"cart": {
+		"price": "Price",
+		"product": "Product",
+		"qty": "Qty."
+	},
+	"cartbtn": {
+		"text": "Place Order"
+	},
+	"filterbtn": {
+		"all": "show all",
+		"beers": "Beer",
+		"soda": "soda",
+		"spirits": "spirits"
+	},
+	"inactivity": {
+		"message": ""
+	},
+	"loading": {
+		"title": "Waiting For Terminal"
+	},
+	"order": {
+		"cancelbtn": "Cancel",
+		"confirmbtn": "Confirm",
+		"confirmtext": "Do you want to confirm this order?",
+		"emailbtn-cancel": "No thanks",
+		"emailbtn-ok": "Send to email",
+		"emailreceipt": "Do you want a receipt? ",
+		"kvitteringHead": "Order Receipt",
+		"pendingpayment": "Awaiting Payment",
+		"pourmessage": "Ready to pour"
+	},
+	"product": {
+		"mixer": "Yes please",
+		"neat": "No thanks",
+		"select": "Select",
+		"selectvarHead": "Mixer:"
+	}
+}

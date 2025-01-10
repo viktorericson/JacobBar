@@ -1,0 +1,39 @@
+{
+	"cart": {
+		"price": "Preis",
+		"product": "Produkt",
+		"qty": "Menge"
+	},
+	"cartbtn": {
+		"text": "Zur Kasse Gehen"
+	},
+	"filterbtn": {
+		"all": "Alles anzeigen",
+		"beers": "Bier",
+		"soda": "soda",
+		"spirits": "spirituosen"
+	},
+	"inactivity": {
+		"message": ""
+	},
+	"loading": {
+		"title": "Warten Auf Terminal"
+	},
+	"order": {
+		"cancelbtn": "Stornieren",
+		"confirmbtn": "Bestätigen",
+		"confirmtext": "Möchten Sie mit der Zahlung fortfahren?",
+		"emailbtn-cancel": "Nein danke",
+		"emailbtn-ok": "Als E-Mail senden",
+		"emailreceipt": "Möchten Sie eine Quittung?",
+		"kvitteringHead": "Quittung",
+		"pendingpayment": "Warten auf die Zahlung",
+		"pourmessage": "Bereit zum Ausgießen"
+	},
+	"product": {
+		"mixer": "Ja danke",
+		"neat": "Nein danke",
+		"select": "Wählen",
+		"selectvarHead": "Verwechseln:"
+	}
+}

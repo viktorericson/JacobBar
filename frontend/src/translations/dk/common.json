@@ -1,0 +1,39 @@
+{
+	"cart": {
+		"price": "Pris",
+		"product": "Produkt",
+		"qty": "Antal"
+	},
+	"cartbtn": {
+		"text": "Til Betaling"
+	},
+	"filterbtn": {
+		"all": "vis alle",
+		"beers": "Øl",
+		"soda": "sodavand",
+		"spirits": "sprut"
+	},
+	"inactivity": {
+		"message": ""
+	},
+	"loading": {
+		"title": "Afventer Terminal"
+	},
+	"order": {
+		"cancelbtn": "Afbryd",
+		"confirmbtn": "Fortsæt",
+		"confirmtext": "Vil du fortsætte til betaling?",
+		"emailbtn-cancel": "Nej tak",
+		"emailbtn-ok": "Send til email",
+		"emailreceipt": "Ønsker du at få en kvittering?",
+		"kvitteringHead": "Kvittering",
+		"pendingpayment": "Afventer Betaling",
+		"pourmessage": "Klar til at skænke"
+	},
+	"product": {
+		"mixer": "Ja tak",
+		"neat": "Nej tak",
+		"select": "Vælg",
+		"selectvarHead": "Opblanding:"
+	}
+}
