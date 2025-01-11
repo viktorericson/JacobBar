@@ -16,6 +16,7 @@ npm install
 npm run build
 
 npm run preview
+-- Kører på 127.0.0.1:4173
 ```
 
 Backend:
