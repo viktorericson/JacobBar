@@ -1,3 +1,9 @@
+Først kør 
+```
+git clone https://github.com/viktorericson/JacobBar.git
+```
+i den directory du vil have projektet i.
+
 Frontend:
 1. install node
 ```
